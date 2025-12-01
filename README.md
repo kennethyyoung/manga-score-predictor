@@ -2,8 +2,6 @@
 **Author:** Kenneth Young   
 **Date:** November 2025    
 **Platform:** [MyAnimeList Dataset (Kaggle) ](https://www.kaggle.com/datasets/andreuvallhernndez/myanimelist)    
-**BC Email:** kenneth.young@bellevuecollege.edu   
-**Google Email:** youngyken@gmail.com
 
 ## 1. Introduction
 
