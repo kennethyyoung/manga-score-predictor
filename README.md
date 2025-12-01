@@ -140,6 +140,7 @@ A correlation heatmap is a powerful tool for getting a quick overview of the lin
 
 We are most interested in the top row: which features have the strongest positive or negative correlation with `score`?
 
+<img width="1057" height="600" alt="newplot" src="https://github.com/user-attachments/assets/5e1e7958-43df-45f9-bc2e-5acf61addcfc" />
 
 **Scatter Plot Observations**
 
